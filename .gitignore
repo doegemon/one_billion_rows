@@ -8,10 +8,8 @@
 
 # Arquivo full
 .tmp
-measurements1M.txt
-measurements10M.txt
-measurements100M.txt
-measurements.txt
+.txt
+weather_measurements.txt
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
