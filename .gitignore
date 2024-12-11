@@ -9,6 +9,7 @@
 # Arquivo full
 .tmp
 .txt
+weather_measurements.txt
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
